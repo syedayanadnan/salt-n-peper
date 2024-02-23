@@ -1,0 +1,463 @@
+.body{
+    background-color: black;
+    color: white;
+}
+.childdiv{
+justify-items: center;
+justify-content: space-evenly;
+display: flex;
+gap: 3px;
+}
+.href{
+text-decoration: none;
+background-color: black;
+color: white;
+font-size: larger;
+
+
+
+
+
+}
+.nav{
+    background-color: black;
+color: white;
+padding: 50px;
+
+}
+.button{
+background-color: rgb(255, 4, 4);
+height: 30px;
+
+}
+.ab{
+background-color: black;
+color: white;
+
+}
+.logo{
+width: 150px; ;
+height: 70px;
+margin: -30px;
+text-align: left 500px;
+}
+.berger{
+text-align: left;
+}
+.soupe{
+width: 225px ;
+height: 375px ;
+
+}
+.soupes{
+    justify-content: space-evenly;
+    text-align: center;
+}
+.sou{
+font-size: 70px;
+}
+.head{
+justify-content: space-evenly;
+display: flex;
+}
+.food{
+justify-content: left;
+
+}
+.OurDeals{
+    justify-content: space-evenly;
+}
+.food{
+ justify-items: center;
+ display: flex;   
+}
+.taste{
+text-align: center;
+margin-top: 10px;
+}
+.class{
+font-size: 60px;
+margin-left: 80px;
+}
+.pera{
+    padding: 30px;
+    width: 500px;
+margin-left: 100px;
+font-size: 20px;
+}
+.OurDeals{
+    gap: 50px;
+    display: flex;
+
+
+}
+.our{
+    text-align: center;
+    font-size: 60px;
+}
+.deta{
+    justify-content:space-around;
+    display: flex; 
+}
+.soup{
+font-size: xx-large;
+
+}
+.add{
+    justify-content:space-around;
+    display: flex; 
+    margin-top: -30px;
+}
+.PKR{
+    justify-content:space-around;
+    display: flex; 
+    margin-top: -30px;
+    margin-right: 30px;
+}
+.butt{
+    justify-content:space-around;
+    display: flex;
+
+}
+.on{
+background-color: red;
+color: white;
+width: 125px;
+height: 50px;
+margin-right: 20px; 
+border-radius: 20px;
+}
+.ab{
+    background-color: black;
+    color: white;
+}
+.intro{
+justify-content: center;
+display: flex;
+margin: 130px;
+margin-top: -20px;
+}
+.introd{
+text-align: center;
+font-size: 70px;
+
+}
+.res{
+    justify-content: center;
+    display: flex;
+    margin: 130px;
+    margin-top: 27px;
+}
+.rant{
+    margin-right: 60px;
+    display: flex;
+    margin-left: 78px;
+    margin-top: 50px;
+}
+.m{
+    text-align: center;
+    font-size: 35px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+   
+}
+.s{
+    font-size: 40px;
+     margin-left: 80px ;
+     margin-top: 50px;
+}
+.hub{
+ justify-content: space-evenly;
+display: flex;
+margin: 80px;
+margin-top: -60px   ;
+}
+.n{
+    justify-content: space-evenly;
+    display: flex;
+    margin: 80px;
+    margin-top: -60px   ;
+
+}
+.la{
+    font-size: 40px;
+    margin-left: 80px ;
+    /* margin-top: 50px; */
+
+}
+.hore{
+    margin-right: 60px;
+    display: flex;
+    margin-left: 78px;
+    /* margin-top: 50px; */
+
+}
+.is{
+    margin-top: 40px;
+}
+.am{
+font-size: 40px;
+margin-left:  150px;
+margin-top: -50px;
+}
+.Is{
+    justify-content: space-evenly;
+    display: flex;
+    margin: 80px ;
+}
+ .lam{
+
+    font-size: 40px;
+    margin-left:  80px;
+     
+ }
+.bad{
+
+    margin-right: 60px;
+    display: flex;
+    margin-left: 78px;
+
+}
+
+.sal{
+
+    font-size: 50px;
+    
+}
+   .abad{
+    margin-right: 60px;
+    display: flex;
+    
+   }
+.city{
+    gap: 140px;
+    display: flex;
+    margin: 90px ;
+
+}
+.baha{
+
+    gap: 140px;
+    display: flex;
+    margin: 90px ;
+
+}
+.wal{
+    font-size: 50px;
+
+
+}
+.pur{
+    margin-right: 60px;
+    display: flex;
+
+
+}
+.ex{
+    font-size: 50px;
+text-align: center;
+}
+.tra{
+    text-align: center;
+
+}
+.gol{
+    gap: 140px;
+    display: flex;
+    margin: 90px ;
+
+}
+.den{
+
+    margin-right: 60px;
+    display: flex;
+}
+.mall{
+    gap: 200px;
+    display: flex;
+    margin: 50px;
+}
+.mn{
+    gap: 250px;
+    display: flex; 
+   margin-left: 90px; 
+   margin-top: -30px;
+}
+.a{
+    gap: 250px;
+    display: flex; 
+   margin-left: 90px; 
+   margin-top: -20px;
+
+}
+.p{
+
+    margin-left: 60px;
+}
+.ll{
+    gap: 400px;
+    display: flex; 
+   margin-left: 90px; 
+   margin-top: -20px;
+
+}
+.guj{
+    gap: 200px;
+    display: flex;
+    margin: 50px;
+}
+.ran{
+    gap: 250px;
+    display: flex; 
+   margin-left: 90px; 
+   margin-top: -30px;
+}
+.wa{
+    gap: 250px;
+    display: flex; 
+   margin-left: 90px; 
+   margin-top: -20px;
+}
+.laa{    gap: 400px;
+    display: flex; 
+   margin-left: 90px; 
+   margin-top: -20px;
+}
+.fran{
+    text-align: center;
+    font-size: 50px;
+}
+.eses{
+    gap: 200px;
+    display: flex;
+    margin: 50px;  
+}
+.chies{
+    margin-top: 50px;
+}
+.fainal{
+    gap: 130px;
+    display: flex;
+    margin: 90px; 
+
+}
+
+
+.order{
+justify-content: space-evenly;
+display: flex;
+margin-top: 90px;
+
+}
+.now{
+    width: 500px;
+    height: 50px;
+}
+.rate{
+text-align: center;
+font-weight: bolder;
+font-size: 50px;
+/* margin-top: -90px; */
+}
+.DFDF{
+    background-color: red;
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+.fl{
+margin-top: 700px;
+
+}
+.vs{
+   justify-content: space-evenly;
+   display: flex;
+}
+.code{
+    border: solid  white 1px;
+    width: 600px;
+}
+.end{
+    text-align: center;
+    font-size: larger;
+}
+.fainal{
+justify-content: space-evenly;
+display: flex; 
+margin-top:95px;
+
+}
+.fainals{
+
+    justify-content: space-evenly;
+    display: flex; 
+    margin-top:950px;
+/* margin: 100px; */
+}
+.ppp{
+margin-left: 00px;
+margin-right: 50px;    
+}
+.qk{
+    margin-left: 100px;
+    margin-right: 50px; 
+
+}
+.vip{
+    gap: 150px;
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px; 
+}
+.vipp{
+   
+    gap: 210px;
+    display: flex;
+    margin-left: 90px;
+    margin-top:-20px;
+    
+}
+.vippp{
+    gap: 380px;
+    display: flex;
+    margin-left: 230px; 
+    margin-top:10px;
+}
+.vipppp{
+
+    gap: 350px;
+    display: flex;
+    margin-left: 180px;
+    margin-top: -20px;
+}
+.h{
+    /* margin-left: 130px; */
+    font-size: x-large;
+    /* margin-top: 200px; */
+}
+.u{
+font-size: small;
+
+}
+.mm{
+color: red;
+text-align: left;
+margin-left: 00px; 
+}
+.j{
+ justify-content: space-evenly;
+ display: flex;
+ margin: 80px;
+
+}
+.ol{
+  text-align: center;
+ font-size: 60px;
+}
+.ul{
+    justify-content: space-evenly;
+    display: flex;
+
+
+
+}
